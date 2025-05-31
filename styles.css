@@ -688,7 +688,7 @@ footer::before {
     margin-bottom: 1rem;
     display: flex;
     align-items: center;
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(0, 0, 0, 0.8);
 }
 
 .contact-info i {
